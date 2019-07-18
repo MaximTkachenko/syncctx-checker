@@ -1,6 +1,7 @@
 # syncctx-checker
 Simple WinFroms application to play with Task, ConfigureAwait(false) and SynchronizationContext
 
+Related articles:
 - http://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/
 - https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html
 - https://blog.stephencleary.com/2013/11/there-is-no-thread.html
