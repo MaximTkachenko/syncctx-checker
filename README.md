@@ -1,2 +1,2 @@
 # syncctx-checker
-Simple WinFroms application to play with Task and SynchronizationContext
+Simple WinFroms application to play with Task, ConfigureAwait(false) and SynchronizationContext
