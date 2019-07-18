@@ -8,5 +8,6 @@ Related articles:
 - https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/
 - https://foreverframe.net/what-lies-beneath-asyncawait-in-c/
 - https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/
+- https://devblogs.microsoft.com/pfxteam/parallelextensionsextras-tour-7-additional-taskschedulers/
 
 >The generated state machine is a class in debug mode and a struct in release mode.
